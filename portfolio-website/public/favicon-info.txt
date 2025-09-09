@@ -1,0 +1,16 @@
+<!-- This is a placeholder for favicon. In a real project, you would have actual favicon files -->
+<!-- 
+To add real favicons, generate them using a tool like favicon.io and place them in the public directory:
+- favicon.ico
+- apple-touch-icon.png
+- android-chrome-192x192.png
+- android-chrome-512x512.png
+- favicon-16x16.png
+- favicon-32x32.png
+
+Then add these meta tags to the head section of your layout:
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+-->

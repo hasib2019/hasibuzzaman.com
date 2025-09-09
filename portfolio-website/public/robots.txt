@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: http://localhost:8000/sitemap.xml
+
+# Disallow admin areas (if any in future)
+Disallow: /admin/
+Disallow: /dashboard/
+
+# Allow important directories
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /assets/
